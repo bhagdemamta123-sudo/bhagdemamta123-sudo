@@ -1,3 +1,11 @@
+# 💫 Hi 👋, I'm Mamta Bhagde
+**An Aspiring Data Analyst || Power BI Developer || SQL Developer**
+
+ 👉 ✉️ **bhagdemamta123@gmail.com** 
+
+- 🔭 **I’m currently working at LeadsQ Research, where I contribute to data research, analysis, and insights development
+- 🌱 **I’m Currently preparing for a Data Analyst role and building strong skills in SQL, Excel, Power BI, and data interpretation 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mamta_bhagde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamta-bhagde-70732833b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhagdemamta123@gmail.com) 
