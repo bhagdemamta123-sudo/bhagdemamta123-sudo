@@ -3,7 +3,7 @@
 
  👉 ✉️ **bhagdemamta123@gmail.com** 
 
-- 🔭 **I’m currently working at LeadsQ Research, where I contribute to data research, analysis, and insights development
+- 🔭 **I’m currently working at LeadsQResearch, where I contribute to data research, analysis, and insights development
 - 🌱 **I’m Currently preparing for a Data Analyst role and building strong skills in SQL, Excel, Power BI, and data interpretation 
 
 
