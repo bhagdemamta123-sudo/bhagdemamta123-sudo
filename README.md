@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mamta Bhagde
-**An Aspiring Data Analyst || Power BI Developer || SQL Developer**
+**An Aspiring Data Analyst | Power BI | SQL | Excel | Python |**
 
  👉 ✉️ **bhagdemamta123@gmail.com** 
 
